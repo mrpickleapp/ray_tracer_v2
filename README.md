@@ -8,6 +8,8 @@ Can handle a number of primitive shapes, and complex shapes made up of primitive
 
 Output settings can be tweaked within the fully resizeable window in order to balance performance with image quality. Several anti-aliasing levels are offered. A high-quality render of the current scene can be exported while the simulation is running.
 
+Camera can be moved in three dimensions with the WASDQE keys, and can be re-orientated in two axes with the arrow keys. Field of view (ie zooming in and out) can be adjusted with the R and F keys.
+
 Support for multi-threading ensures helps keep the engine running at a reasonable speed.
 
 For more information on the process, please see this blog post: https://medium.com/@www.seymour/coding-a-3d-ray-tracing-graphics-engine-using-python-and-c-part-2-9b53bcb6fb1b
