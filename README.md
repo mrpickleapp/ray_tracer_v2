@@ -18,6 +18,8 @@ For more information on the process, please see this blog post: https://medium.c
 
 ![diamond_4](https://github.com/mrpickleapp/ray_tracer_v2/assets/82331079/0e1495c9-7433-4513-872e-187dfc314b26)
 
+![1_aBrpMy__kwfk548bBJ7wjg](https://github.com/mrpickleapp/ray_tracer_v2/assets/82331079/20b80bc0-cf25-4bac-92ff-656a8dcc4505)
+
 ![marbles_2](https://github.com/mrpickleapp/ray_tracer_v2/assets/82331079/932a607e-fd55-487c-b19f-8258fd431357)
 
 ![disc_test_2](https://github.com/mrpickleapp/ray_tracer_v2/assets/82331079/bb09f561-7bf8-4abc-b0c3-b94a4027c471)
